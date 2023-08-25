@@ -1,0 +1,8 @@
+\Network name: sampledata.txt
+Node	DCPMDS	Category
+v1	1	Critical
+v4	1	Critical
+v2	0	Redundant
+v3	0	Redundant
+v5	1	Intermittent
+v6	0	Intermittent
