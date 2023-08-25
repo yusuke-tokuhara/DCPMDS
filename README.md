@@ -33,13 +33,13 @@ After that, the program asks to input the path of the file where the input data 
 
 Example:
 
-Input folder path> C\\User\\sample_data\\input
+Input folder path> C\\User\\sample_test\\input
 
 Next, you have to input the path where the result output file is stored.
 
 Example:
 
-Output folder path> C\\User\\sample_data\\output
+Output folder path> C\\User\\sample_test\\output
 
 Finally, the user is asked to input the theta parameter value:
 
