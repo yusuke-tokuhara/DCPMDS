@@ -39,7 +39,7 @@ Next, you have to input the path where the result output file is stored.
 
 Example:
 
-Output folder path> C\\User\\sample_test\\output
+Output folder path> C\\User\\sample_test\\result
 
 Finally, the user is asked to input the theta parameter value:
 
