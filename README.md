@@ -5,8 +5,6 @@ This program calls IBM ILOG CPLEX Optimization Studio internally. To download CP
 # Usage
 Install java environment (https://www.oracle.com/jp/java/technologies/downloads/).
 
-Download all class files.
-
 The format of input network data is as follows:
 
 v1 v2 0.5
