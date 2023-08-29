@@ -3,7 +3,7 @@ This program implements the DCPMDS algorithm to compute control categories in di
 # Requirements
 This program calls IBM ILOG CPLEX Optimization Studio internally. To download CPLEX, see here (https://www.ibm.com/products/ilog-cplex-optimization-studio).
 # Usage
-Install java envioroment (https://www.oracle.com/jp/java/technologies/downloads/).
+Install java environment (https://www.oracle.com/jp/java/technologies/downloads/).
 
 Download all class files.
 
